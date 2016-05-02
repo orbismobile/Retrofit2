@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="connect_internet">Please, connect to Internet</string>
+    <string name="error">Error</string>
+</resources>
